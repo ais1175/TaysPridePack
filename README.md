@@ -12,9 +12,9 @@ Pride Clothing Pack For FiveM MP Male &amp; MP Female
 
 | | | |
 |-|-|-|
-| <img src="Screenshots/S01.png" width="550"> | <img src="Screenshots/S02.png" width="550"> | <img src="Screenshots/S03.png" width="550"> |
-|  <img src="Screenshots/S04.jpg" width="550">  | <img src="Screenshots/S05.png" width="550"> | <img src="Screenshots/S06.png" width="550"> |
-|  <img src="Screenshots/S07.jpg" width="550">  | <img src="Screenshots/S08.png" width="550"> | <img src="Screenshots/S09.png" width="550"> |
+| <img src="Screenshots/S01.png" width="1050"> | <img src="Screenshots/S02.png" width="1050"> | <img src="Screenshots/S03.png" width="1050"> |
+| <img src="Screenshots/S05.png" width="1050">  | <img src="Screenshots/S08.png" width="1050"> | <img src="Screenshots/S06.png" width="1050"> |
+|    | <img src="Screenshots/S09.png" width="1050"> |  |
 
 
 
@@ -235,7 +235,7 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 2. Copy `TaysPridePack` to your resources folder
 
-4. Add ensure TaysPridePack` to your server.cfg
+4. Add ensure `TaysPridePack` to your server.cfg
 
 ---------------------------------------
 
