@@ -12,9 +12,9 @@ Pride Clothing Pack For FiveM MP Male &amp; MP Female
 
 | | | |
 |-|-|-|
-| <img src="Screenshots/S01.png" width="1050"> | <img src="Screenshots/S02.png" width="1050"> | <img src="Screenshots/S03.png" width="1050"> |
-| <img src="Screenshots/S05.png" width="1050">  | <img src="Screenshots/S08.png" width="1050"> | <img src="Screenshots/S06.png" width="1050"> |
-|    | <img src="Screenshots/S09.png" width="1050"> |  |
+| <img src="Screenshots/SS1.png" width="1050"> | <img src="Screenshots/SS2.png" width="1050"> | <img src="Screenshots/SS3.png" width="1050"> |
+| <img src="Screenshots/SS4.png" width="1050">  | <img src="Screenshots/SS5.png" width="1050"> | <img src="Screenshots/SS6.png" width="1050"> |
+| <img src="Screenshots/SS7.png" width="1050">  | <img src="Screenshots/SS8.png" width="1050"> | <img src="Screenshots/SS9.png" width="1050"> |
 
 
 
@@ -133,24 +133,24 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 ## MALE HOODIES - Hood Down
 
-- White, Black, Pink Gay Pride Hoode
-- White, Black, Pink Lesbian Hoodie
-- White, Black, Pink Asexual Hoodie
-- White, Black, Pink Bisexual Hoodie
-- White, Black, Pink Nonbinary Hoodie
--  White, Black, Pink Transgender Hoodie
+- Gay Pride
+- Lesbian
+- Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
 
 ---------------------------------------
 
 
 ## MALE HOODIES - Hood Up
 
-- White, Black, Pink Gay Pride Hoode
-- White, Black, Pink Lesbian Hoodie
-- White, Black, Pink Asexual Hoodie
-- White, Black, Pink Bisexual Hoodie
-- White, Black, Pink Nonbinary Hoodie
--  White, Black, Pink Transgender Hoodie
+- Gay Pride
+- Lesbian
+- Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
 
 
 ---------------------------------------
@@ -207,24 +207,24 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 ## FEMALE HOODIES - Hood Down
 
-- White, Black, Pink Gay Pride Hoode
-- White, Black, Pink Lesbian Hoodie
-- White, Black, Pink Asexual Hoodie
-- White, Black, Pink Bisexual Hoodie
-- White, Black, Pink Nonbinary Hoodie
--  White, Black, Pink Transgender Hoodie
+- Gay Pride
+- Lesbian
+- Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
 
 ---------------------------------------
 
 
 ## FEMALE HOODIES - Hood Up
 
-- White, Black, Pink Gay Pride Hoode
-- White, Black, Pink Lesbian Hoodie
-- White, Black, Pink Asexual Hoodie
-- White, Black, Pink Bisexual Hoodie
-- White, Black, Pink Nonbinary Hoodie
--  White, Black, Pink Transgender Hoodie
+- Gay Pride
+- Lesbian
+- Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
 
 
 ------------------------
