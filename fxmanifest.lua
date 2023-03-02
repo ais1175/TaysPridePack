@@ -1,4 +1,7 @@
 -- Generated with DurtyClothTool
+-- Pack created for free by TayMcKenzieNZ
+-- Download it ONLY at github.com/taymckenzienz
+
 
 fx_version 'cerulean'
 game { 'gta5' }
