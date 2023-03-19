@@ -1,0 +1,9 @@
+files = [
+    'stream/tayspridemerch_male.rpf/*',
+    'stream/tayspridemerch_female.rpf/*'
+]
+
+[meta]
+'stream/mp_m_freemode_01_mp_m_tayspridemerch.meta' = 'SHOP_PED_APPAREL_META_FILE'
+'stream/mp_f_freemode_01_mp_f_tayspridemerch.meta' = 'SHOP_PED_APPAREL_META_FILE'
+'stream/pedalternatevariations.meta' = 'ALTERNATE_VARIATIONS_FILE'
