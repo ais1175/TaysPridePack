@@ -2,6 +2,13 @@
 
 Pride Clothing Pack For FiveM MP Male &amp; MP Female
 
+<p align="center">
+  <a href="https://github.com/TayMcKenzieNZ/TaysPridePack"><img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="License"></a>
+  <a href="https://github.com/TayMcKenzieNZ/TaysPridePack"><img src="https://img.shields.io/github/stars/TayMcKenzieNZ/TaysPridePack.svg?style=social" alt="Star"></a>
+  <a href="https://github.com/TayMcKenzieNZ/TaysPridePack"><img src="https://img.shields.io/github/forks/TayMcKenzieNZ/TaysPridePack.svg?style=social&label=Forks" alt="Forks"></a>
+</p>
+
+
 # You must be a Patron of the $US15 tier or higher, if not, visit the [Patreon page](https://www.patreon.com/fivem). Prices may change at any given date and is out of my control.
 
 *Alternatively, you can set your player count to 10*
