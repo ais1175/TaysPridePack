@@ -1,6 +1,8 @@
-# TaysPridePack 👚
+<h1 align="center">🏳️‍🌈 Tay's Pride Pack 🏳️‍🌈</h1>
 
-Pride Clothing Pack For FiveM MP Male &amp; MP Female
+<h2 align="center">🌈 Pride Clothing Pack For AltV, FiveM & Single Player MP Male &amp; MP Female 🌈</h2>
+
+
 
 <p align="center">
   <a href="https://github.com/TayMcKenzieNZ/TaysPridePack"><img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="License"></a>
