@@ -3,6 +3,9 @@
 
 fx_version 'cerulean'
 game { 'gta5' }
+author 'TayMcKenzieNZ'
+description 'Pride Clothing By TayMcKenzieNZ'
+
 
 files {
   'mp_m_freemode_01_mp_m_tayspridepack1.meta',
