@@ -1,18 +1,18 @@
 -- Generated with DurtyClothTool --
--- Created by TayMcKenzieNZ --
+-- Created By TayMcKenzieNZ --
 
 fx_version 'cerulean'
 game { 'gta5' }
+description 'Pride Clothing For FiveM'
 author 'TayMcKenzieNZ'
-description 'Pride Clothing By TayMcKenzieNZ'
 
 
 files {
-  'mp_m_freemode_01_mp_m_tayspridepack1.meta',
-  'mp_f_freemode_01_mp_f_tayspridepack1.meta',
+  'mp_m_freemode_01_mp_m_tayspridepack.meta',
+  'mp_f_freemode_01_mp_f_tayspridepack.meta',
   'stream/pedalternatevariations.meta'
 }
 
-data_file 'SHOP_PED_APPAREL_META_FILE' 'mp_m_freemode_01_mp_m_tayspridepack1.meta'
-data_file 'SHOP_PED_APPAREL_META_FILE' 'mp_f_freemode_01_mp_f_tayspridepack1.meta'
+data_file 'SHOP_PED_APPAREL_META_FILE' 'mp_m_freemode_01_mp_m_tayspridepack.meta'
+data_file 'SHOP_PED_APPAREL_META_FILE' 'mp_f_freemode_01_mp_f_tayspridepack.meta'
 data_file 'ALTERNATE_VARIATIONS_FILE' 'stream/pedalternatevariations.meta'
