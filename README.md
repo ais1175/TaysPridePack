@@ -21,7 +21,9 @@
 
 | | | |
 |-|-|-|
-| <img src="Screenshots/SS1.png" width="1050"> | <img src="Screenshots/SS2.png" width="1050"> | <img src="Screenshots/SS3.png" width="1050"> |
+| <img src="Screenshots/Pride001.png" width="1050"> | <img src="Screenshots/Pride002.png" width="1050"> | <img src="Screenshots/Pride003.png" width="1050"> |
+| <img src="Screenshots/Pride004.png" width="1050"> | <img src="Screenshots/Pride005.png" width="1050"> | <img src="Screenshots/Pride006.png" width="1050"> |
+| <img src="Screenshots/Pride007.png" width="1050"> | <img src="Screenshots/SS1.png" width="1050"> | <img src="Screenshots/SS2.png" width="1050"> | <img src="Screenshots/SS3.png" width="1050"> |
 | <img src="Screenshots/SS4.png" width="1050">  | <img src="Screenshots/SS5.png" width="1050"> | <img src="Screenshots/SS6.png" width="1050"> |
 | <img src="Screenshots/SS7.png" width="1050">  | <img src="Screenshots/SS8.png" width="1050"> | <img src="Screenshots/SS9.png" width="1050"> |
 
@@ -54,6 +56,18 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 ---------------------------------------
 
 # **FEATURES:** 🌟
+
+## Male Sunglasses
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+- Pride Hearts
+
+---------------------------------------
 
 ## MALE SHIRTS
 
@@ -164,6 +178,41 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 ---------------------------------------
 
+## MALE SWIMMING SHORTS
+
+- Gay Pride
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+
+---------------------------------------
+
+## FEMALE SUNGLASSES
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+- Pride Hearts
+
+---------------------------------------
+
+## FEMALE BIKINI TOP
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
 
 ## FEMALE SHIRTS
 
@@ -231,6 +280,18 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - Gay Pride
 - Lesbian
 - Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+
+## FEMALE BIKINI BOTTOMS
+
+- Gay Pride
+- Lesbian
+- Asexual
 - Bisexual
 - Transgender
 - Pansexual
