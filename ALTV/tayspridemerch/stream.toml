@@ -2,7 +2,8 @@ files = [
     'stream/tayspridemerch_male_p.rpf/*',
     'stream/tayspridemerch_male.rpf/*',
     'stream/tayspridemerch_female_p.rpf/*',
-    'stream/tayspridemerch_female.rpf/*'
+    'stream/tayspridemerch_female.rpf/*',
+    'stream/creaturemetadata.rpf/*'
 ]
 
 [meta]

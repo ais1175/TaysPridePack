@@ -1,11 +1,7 @@
--- Generated with DurtyClothTool --
--- Created By TayMcKenzieNZ --
+-- Generated with DurtyClothTool
 
 fx_version 'cerulean'
 game { 'gta5' }
-description 'Pride Clothing For FiveM'
-author 'TayMcKenzieNZ'
-
 
 files {
   'mp_m_freemode_01_mp_m_tayspridepack.meta',
