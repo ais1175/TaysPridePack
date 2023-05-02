@@ -52,8 +52,6 @@ If for whatever reason you crash using this pack, please read here and perhaps c
 
 See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-gamebuild-to-casino-cayo-perico-tuners-future-dlcs/4784977)
 
-### The clothing is based off of New Zealand comedy channel by the name of [Viva La Dirt League](https://www.youtube.com/watch?v=uRZHpjCKK8A) and Canadian artist [Crash Adams](https://www.youtube.com/watch?v=K5NEOwRXa_8). 
-
 ---------------------------------------
 
 # **FEATURES:** 🌟
