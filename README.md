@@ -79,6 +79,17 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 ---------------------------------------
 
+## MALE GLOVES - MULTIPLE VARIANTS FOR COMPATIBILITY WITH DIFFERENT TYPES OF CLOTHING
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
 ## MALE SHIRTS
 
 ###TANK TOPS:
@@ -209,6 +220,8 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - Transgender
 - Pansexual
 
+
+
 ---------------------------------------
 
 ## MALE WINTER LEGGINGS:
@@ -219,6 +232,8 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - Bisexual
 - Transgender
 - Pansexual
+
+---------------------------------------
 
 ## FEMALE SUNGLASSES
 
@@ -231,6 +246,28 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - Pride Hearts
 
 ---------------------------------------
+
+
+## FEMALE SCARFS
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+## FEMALE GLOVES - MULTIPLE VARIANTS FOR COMPATIBILITY WITH DIFFERENT TYPES OF CLOTHING
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
 
 ## FEMALE BIKINI TOP
 
