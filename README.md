@@ -26,6 +26,7 @@
 | <img src="Screenshots/Pride007.png" width="1050"> | <img src="Screenshots/SS1.png" width="1050"> | <img src="Screenshots/SS2.png" width="1050"> | <img src="Screenshots/SS3.png" width="1050"> |
 | <img src="Screenshots/SS4.png" width="1050">  | <img src="Screenshots/SS5.png" width="1050"> | <img src="Screenshots/SS6.png" width="1050"> |
 | <img src="Screenshots/SS7.png" width="1050">  | <img src="Screenshots/SS8.png" width="1050"> | <img src="Screenshots/SS9.png" width="1050"> |
+| <img src="Screenshots/pride014.png" width="1050">  | <img src="Screenshots/pride012.png" width="1050"> | <img src="Screenshots/pride010.png" width="1050"> |
 
 
 
@@ -51,13 +52,11 @@ If for whatever reason you crash using this pack, please read here and perhaps c
 
 See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-gamebuild-to-casino-cayo-perico-tuners-future-dlcs/4784977)
 
-### The clothing is based off of New Zealand comedy channel by the name of [Viva La Dirt League](https://www.youtube.com/watch?v=uRZHpjCKK8A) and Canadian artist [Crash Adams](https://www.youtube.com/watch?v=K5NEOwRXa_8). 
-
 ---------------------------------------
 
 # **FEATURES:** 🌟
 
-## Male Sunglasses
+## MALE SUNGLASSES
 
 - Gay
 - Lesbian
@@ -69,9 +68,31 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 ---------------------------------------
 
+## MALE SCARFS
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+## MALE GLOVES - MULTIPLE VARIANTS FOR COMPATIBILITY WITH DIFFERENT TYPES OF CLOTHING
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
 ## MALE SHIRTS
 
-### Tank Tops:
+###TANK TOPS:
 
 - White, Black, Pink Gay Pride Tank Tops
 - White, Black, Pink Lesbian Tank Tops
@@ -83,7 +104,7 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 ---------------------------------------
 
-### V Neck Short Sleeves:
+### V NECK SHORT SLEEVE SHIRTS: 
 
 - White, Black, Pink Gay Pride V Neck T-Shirts
 - White, Black, Pink Lesbian Pride V Neck T-Shirts
@@ -96,7 +117,7 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 ---------------------------------------
 
 
-### Crew Neck Short Sleeve Baggy Shirt:
+### CREW NECK SHORT SLEEVE BAGGY SHIRTS: 
 
 
 - White, Black, Pink Gay Pride Crew Neck Short Sleeve Baggy Shirt
@@ -110,7 +131,7 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 ---------------------------------------
 
 
-### Crew Neck Short Sleeve Shirt:
+### CREW NECK SHORT SLEEVE SHIRTS:
 
 
 - White, Black, Pink Gay Pride Crew Neck Short Sleeve Shirt
@@ -125,7 +146,7 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 
 
-### Crew Neck Long Sleeve Shirt:
+### CREW NECK LONG SLEEVE SHIRTS:
 
 
 - White, Black, Pink Gay Pride Crew Neck Long Sleeve Shirt
@@ -140,7 +161,7 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 
 
-### V Neck Long Sleeves:
+### V NECK LONG SLEEVES:
 
 
 - White, Black, Pink Gay Pride Crew Neck
@@ -190,6 +211,30 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 ---------------------------------------
 
+## MALE WINTER SWEATSHIRTS:
+
+- Gay Pride
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+
+
+---------------------------------------
+
+## MALE WINTER LEGGINGS:
+
+- Gay Pride
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
 ## FEMALE SUNGLASSES
 
 - Gay
@@ -201,6 +246,28 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - Pride Hearts
 
 ---------------------------------------
+
+
+## FEMALE SCARFS
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+## FEMALE GLOVES - MULTIPLE VARIANTS FOR COMPATIBILITY WITH DIFFERENT TYPES OF CLOTHING
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
 
 ## FEMALE BIKINI TOP
 
@@ -231,7 +298,7 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 
 
-### Crew Neck Short Sleeve Shirt:
+### CREW NECK SHORT SLEEVE SHIRTS: 
 
 
 - White, Black, Pink Gay Pride Crew Neck Short Sleeve Shirt
@@ -247,7 +314,7 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 
 
-### Crew Neck Long Sleeve Shirt:
+### CREW NECK LONG SLEEVE SHIRTS: 
 
 
 - White, Black, Pink Gay Pride Crew Neck Long Sleeve Shirt
@@ -263,7 +330,7 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 ---------------------------------------
 
 
-## FEMALE HOODIES - Hood Down
+## FEMALE HOODIES - HOOD DOWN
 
 - Gay Pride
 - Lesbian
@@ -275,7 +342,7 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 ---------------------------------------
 
 
-## FEMALE HOODIES - Hood Up
+## FEMALE HOODIES - HOOD UP
 
 - Gay Pride
 - Lesbian
@@ -297,6 +364,30 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - Pansexual
 
 ---------------------------------------
+
+## FEMALE WINTER SWEATSHIRTS:
+
+- Gay Pride
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+## FEMALE WINTER LEGGINGS:
+
+- Gay Pride
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+
+
+
 
 # License 📝
 
