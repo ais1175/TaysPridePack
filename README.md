@@ -68,6 +68,28 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 ---------------------------------------
 
+## MALE Hat 1
+
+- HUMAN pride hat facing forward
+
+---------------------------------------
+## MALE Hat 2
+
+- HUMAN pride hat facing backwards
+
+---------------------------------------
+
+## MALE BEANIE
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
 ## MALE SCARFS
 
 - Gay
@@ -113,6 +135,8 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - White, Black, Pink Nonbinary Pride V Neck T-Shirts
 - White, Black, Pink Transgender Pride V Neck T-Shirts
 - White, Black, Pink Pansexual Pride V Neck T-Shirts
+- Black HUMAN pride V Neck
+- White HUMAN pride V Neck
 
 ---------------------------------------
 
@@ -141,6 +165,8 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - White, Black, Pink Nonbinary Crew Neck Short Sleeve Shirt
 - White, Black, Pink Transgender Crew Neck Short Sleeve Shirt
 - White, Black, Pink Pansexual Crew Neck Short Sleeve Shirt
+- Black HUMAN pride Crew Neck Short Sleeve Shirt
+- White HUMAN pride Crew Neck Short Sleeve Shirt
 
 ---------------------------------------
 
@@ -156,6 +182,8 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - White, Black, Pink Nonbinary Crew Neck Long Sleeve Shirt
 - White, Black, Pink Transgender Crew Neck Long Sleeve Shirt
 - White, Black, Pink Pansexual Crew Neck Long Sleeve Shirt
+- Black HUMAN pride Crew Neck Long Sleeve Shirt
+- White HUMAN pride Crew Neck Long Sleeve Shirt
 
 ---------------------------------------
 
@@ -183,6 +211,8 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - Bisexual
 - Transgender
 - Pansexual
+- Black HUMAN  pride
+- White HUMAN pride
 
 ---------------------------------------
 
@@ -195,6 +225,8 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - Bisexual
 - Transgender
 - Pansexual
+- Black HUMAN  pride
+- White HUMAN pride
 
 
 ---------------------------------------
@@ -235,6 +267,24 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 ---------------------------------------
 
+## MALE FLIP FLOP SHOES
+
+
+- Gay Pride
+- Lesbian
+- Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+## MALE CANVAS SHOES
+
+- Gay Pride
+
+---------------------------------------
+
 ## FEMALE SUNGLASSES
 
 - Gay
@@ -244,6 +294,28 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - Transgender
 - Pansexual
 - Pride Hearts
+
+---------------------------------------
+
+## FEMALE Hat 1
+
+- HUMAN pride hat facing forward
+
+---------------------------------------
+## FEMALE Hat 2
+
+- HUMAN pride hat facing backwards
+
+---------------------------------------
+
+## FEMALE BEANIE
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
 
 ---------------------------------------
 
@@ -292,6 +364,8 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - White, Black, Pink Nonbinary Pride V Off Shoulder T-Shirts
 - White, Black, Pink Transgender Pride V Off Shoulder T-Shirts
 - White, Black, Pink Pansexual Pride V Off Shoulder T-Shirts
+- Black HUMAN  pride V Off Shoulder T-Shirts
+- White HUMAN pride V Off Shoulder T-Shirts
 
 
 ---------------------------------------
@@ -308,6 +382,8 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - White, Black, Pink Nonbinary Crew Neck Short Sleeve Shirt
 - White, Black, Pink Transgender Crew Neck Short Sleeve Shirt
 - White, Black, Pink Pansexual Crew Neck Short Sleeve Shirt
+- Black HUMAN  pride Crew Neck Short Sleeve Shirt
+- White HUMAN pride Crew Neck Short Sleeve Shirt
 
 
 ---------------------------------------
@@ -324,6 +400,9 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - White, Black, Pink Nonbinary Crew Neck Long Sleeve Shirt
 - White, Black, Pink Transgender Crew Neck Long Sleeve Shirt
 - White, Black, Pink Pansexual Crew Neck Long Sleeve Shirt
+- Black HUMAN  pride Crew Neck Long Sleeve Shirt
+- White HUMAN pride Crew Neck Long Sleeve Shirt
+
 
 
 
@@ -338,6 +417,9 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - Bisexual
 - Transgender
 - Pansexual
+- Black HUMAN  pride
+- White HUMAN pride
+
 
 ---------------------------------------
 
@@ -350,6 +432,8 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - Bisexual
 - Transgender
 - Pansexual
+- Black HUMAN  pride
+- White HUMAN pride
 
 ---------------------------------------
 
@@ -384,20 +468,30 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 - Bisexual
 - Transgender
 - Pansexual
+---------------------------------------
+
+## FEMALE FLIP FLOP SHOES
 
 
+- Gay Pride
+- Lesbian
+- Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+## FEMALE CANVAS SHOES
+
+- Gay Pride
+
+---------------------------------------
 
 
+INSTALLATION INSTRUCTIONS:
 
-# License 📝
-
-This repository was created by TayMcKenzieNZ and is under the GPL V3 license.
-
--------------------
-
-# INSTALLATION INSTRUCTIONS:
-
-## Single Player 
+Single Player 
 
 - Copy the tayspridemerch folder found within the FILES > SINGLE PLAYER folder  with the dlc.rpf file to this sub folder of your mods folder: mods/update/x64/dlcpacks (Create it if its not there)
 
@@ -405,42 +499,32 @@ This repository was created by TayMcKenzieNZ and is under the GPL V3 license.
 
 - Open the dlclist.xml and add the following:
 
-```xml
 <Item>dlcpacks:/tayspridemerch/</Item>
-```
 
 To apply the new clothes you will need some mod menu, suggested ones are:
 Menyoo: [https://github.com/MAFINS/MenyooSP/releases](https://gta5-mods.com/scripts/menyoo-pc-sp)
 
 --------------------------------------
 
-## ALTV
+ALTV
 
 Open the FILES folder, go to ALTV and add taymckenzienzbs to your server.cfg as a separate line below resources and before the enclosing. Your server.cfg resources configuration could look similar to this:
 
-```cfg
 resources: [
   altv-better-clothing,
   tayspridemerch
 ]
-```
-
-
 Start your server and connect to it
 
 --------------------------------------
 
-## FiveM
+FiveM
 
 - Download vMenu and put it in your server/resources folder [vMenu]( https://github.com/TomGrobbe/vMenu/releases)
 
 - Open the FILES folder and drag the taymckenzienzbs inside the FIVEM folder, into your FiveM resources
 
-- Add to your server.cfg:
- 
-```cfg
-ensure tayspridemerch
-``` 
+- Add ensure tayspridemerch to your server.cfg
 
 - Press M to open vMenu  and browse thru your new added clothes (They are always added to the end / last DLC clothes)
 
