@@ -1,4 +1,4 @@
-==== Pride Clothing by TayMcKenzieNZ ===
+===== Pride Clothing by TayMcKenzieNZ ====
 
 
 INSTALL INSTRUCTIONS
@@ -9,9 +9,65 @@ Add-on Pride Clothing For Both Male and Female MP peds.
 
 Content:
 
+## MALE SUNGLASSES
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+- Pride Hearts
+
+---------------------------------------
+
+## MALE Hat 1
+
+- HUMAN pride hat facing forward
+
+---------------------------------------
+## MALE Hat 2
+
+- HUMAN pride hat facing backwards
+
+---------------------------------------
+
+## MALE BEANIE
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+## MALE SCARFS
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+## MALE GLOVES - MULTIPLE VARIANTS FOR COMPATIBILITY WITH DIFFERENT TYPES OF CLOTHING
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
 ## MALE SHIRTS
 
-### Tank Tops:
+###TANK TOPS:
 
 - White, Black, Pink Gay Pride Tank Tops
 - White, Black, Pink Lesbian Tank Tops
@@ -23,7 +79,7 @@ Content:
 
 ---------------------------------------
 
-### V Neck Short Sleeves:
+### V NECK SHORT SLEEVE SHIRTS: 
 
 - White, Black, Pink Gay Pride V Neck T-Shirts
 - White, Black, Pink Lesbian Pride V Neck T-Shirts
@@ -32,11 +88,13 @@ Content:
 - White, Black, Pink Nonbinary Pride V Neck T-Shirts
 - White, Black, Pink Transgender Pride V Neck T-Shirts
 - White, Black, Pink Pansexual Pride V Neck T-Shirts
+- Black HUMAN pride V Neck
+- White HUMAN pride V Neck
 
 ---------------------------------------
 
 
-### Crew Neck Short Sleeve Baggy Shirt:
+### CREW NECK SHORT SLEEVE BAGGY SHIRTS: 
 
 
 - White, Black, Pink Gay Pride Crew Neck Short Sleeve Baggy Shirt
@@ -50,7 +108,7 @@ Content:
 ---------------------------------------
 
 
-### Crew Neck Short Sleeve Shirt:
+### CREW NECK SHORT SLEEVE SHIRTS:
 
 
 - White, Black, Pink Gay Pride Crew Neck Short Sleeve Shirt
@@ -60,12 +118,14 @@ Content:
 - White, Black, Pink Nonbinary Crew Neck Short Sleeve Shirt
 - White, Black, Pink Transgender Crew Neck Short Sleeve Shirt
 - White, Black, Pink Pansexual Crew Neck Short Sleeve Shirt
+- Black HUMAN pride Crew Neck Short Sleeve Shirt
+- White HUMAN pride Crew Neck Short Sleeve Shirt
 
 ---------------------------------------
 
 
 
-### Crew Neck Long Sleeve Shirt:
+### CREW NECK LONG SLEEVE SHIRTS:
 
 
 - White, Black, Pink Gay Pride Crew Neck Long Sleeve Shirt
@@ -75,12 +135,14 @@ Content:
 - White, Black, Pink Nonbinary Crew Neck Long Sleeve Shirt
 - White, Black, Pink Transgender Crew Neck Long Sleeve Shirt
 - White, Black, Pink Pansexual Crew Neck Long Sleeve Shirt
+- Black HUMAN pride Crew Neck Long Sleeve Shirt
+- White HUMAN pride Crew Neck Long Sleeve Shirt
 
 ---------------------------------------
 
 
 
-### V Neck Long Sleeves:
+### V NECK LONG SLEEVES:
 
 
 - White, Black, Pink Gay Pride Crew Neck
@@ -96,25 +158,150 @@ Content:
 
 ## MALE HOODIES - Hood Down
 
-* Gay Pride
-* Lesbian
-* Asexual Hoodie
-* Bisexual
-* Transgender
-* Pansexual
+- Gay Pride
+- Lesbian
+- Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
+- Black HUMAN  pride
+- White HUMAN pride
 
 ---------------------------------------
 
 
 ## MALE HOODIES - Hood Up
 
-* Gay Pride
-* Lesbian
-* Asexual Hoodie
-* Bisexual
-* Transgender
-* Pansexual
+- Gay Pride
+- Lesbian
+- Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
+- Black HUMAN  pride
+- White HUMAN pride
 
+
+---------------------------------------
+
+## MALE SWIMMING SHORTS
+
+- Gay Pride
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+
+---------------------------------------
+
+## MALE WINTER SWEATSHIRTS:
+
+- Gay Pride
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+
+
+---------------------------------------
+
+## MALE WINTER LEGGINGS:
+
+- Gay Pride
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+## MALE FLIP FLOP SHOES
+
+
+- Gay Pride
+- Lesbian
+- Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+## MALE CANVAS SHOES
+
+- Gay Pride
+
+---------------------------------------
+
+## FEMALE SUNGLASSES
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+- Pride Hearts
+
+---------------------------------------
+
+## FEMALE Hat 1
+
+- HUMAN pride hat facing forward
+
+---------------------------------------
+## FEMALE Hat 2
+
+- HUMAN pride hat facing backwards
+
+---------------------------------------
+
+## FEMALE BEANIE
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+
+## FEMALE SCARFS
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+## FEMALE GLOVES - MULTIPLE VARIANTS FOR COMPATIBILITY WITH DIFFERENT TYPES OF CLOTHING
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+
+## FEMALE BIKINI TOP
+
+- Gay
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
 
 ---------------------------------------
 
@@ -130,13 +317,15 @@ Content:
 - White, Black, Pink Nonbinary Pride V Off Shoulder T-Shirts
 - White, Black, Pink Transgender Pride V Off Shoulder T-Shirts
 - White, Black, Pink Pansexual Pride V Off Shoulder T-Shirts
+- Black HUMAN  pride V Off Shoulder T-Shirts
+- White HUMAN pride V Off Shoulder T-Shirts
 
 
 ---------------------------------------
 
 
 
-### Crew Neck Short Sleeve Shirt:
+### CREW NECK SHORT SLEEVE SHIRTS: 
 
 
 - White, Black, Pink Gay Pride Crew Neck Short Sleeve Shirt
@@ -146,13 +335,15 @@ Content:
 - White, Black, Pink Nonbinary Crew Neck Short Sleeve Shirt
 - White, Black, Pink Transgender Crew Neck Short Sleeve Shirt
 - White, Black, Pink Pansexual Crew Neck Short Sleeve Shirt
+- Black HUMAN  pride Crew Neck Short Sleeve Shirt
+- White HUMAN pride Crew Neck Short Sleeve Shirt
 
 
 ---------------------------------------
 
 
 
-### Crew Neck Long Sleeve Shirt:
+### CREW NECK LONG SLEEVE SHIRTS: 
 
 
 - White, Black, Pink Gay Pride Crew Neck Long Sleeve Shirt
@@ -162,34 +353,94 @@ Content:
 - White, Black, Pink Nonbinary Crew Neck Long Sleeve Shirt
 - White, Black, Pink Transgender Crew Neck Long Sleeve Shirt
 - White, Black, Pink Pansexual Crew Neck Long Sleeve Shirt
+- Black HUMAN  pride Crew Neck Long Sleeve Shirt
+- White HUMAN pride Crew Neck Long Sleeve Shirt
 
+
+
+
+---------------------------------------
+
+
+## FEMALE HOODIES - HOOD DOWN
+
+- Gay Pride
+- Lesbian
+- Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
+- Black HUMAN  pride
+- White HUMAN pride
 
 
 ---------------------------------------
 
 
-## FEMALE HOODIES - Hood Down
+## FEMALE HOODIES - HOOD UP
 
-* Gay Pride
-* Lesbian
-* Asexual Hoodie
-* Bisexual
-* Transgender
-* Pansexual
+- Gay Pride
+- Lesbian
+- Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
+- Black HUMAN  pride
+- White HUMAN pride
 
 ---------------------------------------
 
 
-## FEMALE HOODIES - Hood Up
+## FEMALE BIKINI BOTTOMS
 
-* Gay Pride
-* Lesbian
-* Asexual Hoodie
-* Bisexual
-* Transgender
-* Pansexual
+- Gay Pride
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
 
---------------------------------------
+---------------------------------------
+
+## FEMALE WINTER SWEATSHIRTS:
+
+- Gay Pride
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+## FEMALE WINTER LEGGINGS:
+
+- Gay Pride
+- Lesbian
+- Asexual
+- Bisexual
+- Transgender
+- Pansexual
+---------------------------------------
+
+## FEMALE FLIP FLOP SHOES
+
+
+- Gay Pride
+- Lesbian
+- Asexual Hoodie
+- Bisexual
+- Transgender
+- Pansexual
+
+---------------------------------------
+
+## FEMALE CANVAS SHOES
+
+- Gay Pride
+
+---------------------------------------
+
 
 INSTALLATION INSTRUCTIONS:
 

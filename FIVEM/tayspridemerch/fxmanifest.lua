@@ -1,7 +1,12 @@
--- Generated with DurtyClothTool
+-- Generated with DurtyClothTool--
+-- https://gta.clothing/ --
+-- Created By TayMcKenzieNZ --
+-- 
 
 fx_version 'cerulean'
-game { 'gta5' }
+game 'gta5'
+author 'TayMcKenzieNZ'
+description 'FREE Pride Clothing Pack By TayMcKenzieNZ'
 
 files {
   'mp_m_freemode_01_mp_m_tayspridepack.meta',
