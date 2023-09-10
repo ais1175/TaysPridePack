@@ -2,6 +2,8 @@
 
 <h2 align="center">🌈 Pride Clothing Pack For AltV, FiveM & Single Player MP Male &amp; MP Female 🌈</h2>
 
+<h2><center>DO NOT REUPLAOD WITHOUT MY CONSENT</center></h2>
+
 
 
 <p align="center">
