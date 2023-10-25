@@ -510,7 +510,7 @@ Menyoo: [https://github.com/MAFINS/MenyooSP/releases](https://gta5-mods.com/scri
 
 ALTV
 
-Open the FILES folder, go to ALTV and add taymckenzienzbs to your server.cfg as a separate line below resources and before the enclosing. Your server.cfg resources configuration could look similar to this:
+Open the FILES folder, go to ALTV and add tayspridemerch to your server.cfg as a separate line below resources and before the enclosing. Your server.cfg resources configuration could look similar to this:
 
 resources: [
   altv-better-clothing,
@@ -524,11 +524,11 @@ FiveM
 
 - Download the updated vMenu and put it in your server/resources folder [vMenu](https://github.com/ProjectFairnessLabs/PF-vMenu/releases)
 
-- Open the FILES folder and drag the taymckenzienzbs inside the FIVEM folder, into your FiveM resources
+- Open the FILES folder and drag the tayspridemerch inside the FIVEM folder, into your FiveM resources
 
 - Add ensure tayspridemerch to your server.cfg
 
 - Press M to open vMenu  and browse thru your new added clothes (They are always added to the end / last DLC clothes)
 
-IF THEY DO NOT APPEAR, YOU DO NOT HAVE THE REQUIRED PATREON SUBSCRIPTION TO STREAM CLOTHING.
+IF THEY DO NOT APPEAR, YOU DO NOT HAVE THE REQUIRED PATREON SUBSCRIPTION TO STREAM CLOTHING OR YOUR CLOTHING SCRIPT DOES NOT DETECT THEM.
 
